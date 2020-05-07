@@ -1,15 +1,16 @@
-
-    "Books": [
-    { "id" : 1, "title": "Harry Potter", "author": "J. K. Rowling"},
-    { "id" : 2, "title": "Diary of a Wimpy Kid", "author": "unknown"},
-    { "id" : 3, "title": "The Great Gatsby", "author": "F Scott Fitzgerald"},
-    { "id" : 4, "title": "Nineteen Eigthy-Four", "author": "George Orwell"},
-    { "id" : 5,"title": "Lolita", "author": "Vladimir Nabokov"},
-    { "id" : 6, "title": "Harry Potter II", "author": "J. K. Rowling"},
-    { "id" : 7, "title": "Catch-22", "author": "Joseph Heller"},
-    { "id" : 8, "title": "The Catcher in the Rye", "author": "J. D. Salinger"},
-    { "id" : 9, "title": "Beloved", "author": "Toni Morrison"},
-    { "id" : 10, "title": "The Sound and the Fury", "author": "William Faulkner"},
-    ]
+[
+  {
+    "id": 1,
+    "title": "Post 1"
+  },
+  {
+    "id": 2,
+    "title": "Post 2"
+  },
+  {
+    "id": 3,
+    "title": "Post 3"
+  }
+]
     
 
