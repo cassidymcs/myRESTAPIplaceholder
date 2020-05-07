@@ -1,4 +1,4 @@
-{
+
     "Books": [
     { "id" : 1, "title": "Harry Potter", "author": "J. K. Rowling"},
     { "id" : 2, "title": "Diary of a Wimpy Kid", "author": "unknown"},
@@ -12,4 +12,4 @@
     { "id" : 10, "title": "The Sound and the Fury", "author": "William Faulkner"}
     ]
     
-}
+
